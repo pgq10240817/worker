@@ -34,7 +34,7 @@ let 自定义加密客户端问候域名 = 'cloudflare-ech.com';
 let 自定义应用层协议协商 = '';
 let 订阅转换接口 = 解码64('aHR0cHM6Ly91cmwudjEubWsvc3Vi');
 // 远程配置URL（硬编码）
-const 远程配置网址 = 'https://raw.githubusercontent.com/pgq10240817/worker/refs/heads/main/tist.ini';
+const 远程配置网址 = 'https://raw.githubusercontent.com/pgq10240817/worker/refs/heads/main/config.ini';
 let 启用优选域名 = true; // 优选域名默认关闭
 let 启用优选地址 = true;
 let 启用仓库优选 = true;
